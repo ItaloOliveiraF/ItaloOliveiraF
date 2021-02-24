@@ -1,9 +1,8 @@
+#Ítalo Oliveira
 ### Hi there 👋
 
 <!--
 **ItaloOliveiraF/ItaloOliveiraF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Graduation in Computer Engineering in progress. For the last years i have been working and studying about education, people and technology in my experiences in the university.
+  * I'm currently work as Fullstack Javascript Developer with a focus in VueJS and Node-Red 
+  * Learning about Data Science and Web Development
+
+Where to find me:
+  Linkedin: www.linkedin.com/in/italoof
